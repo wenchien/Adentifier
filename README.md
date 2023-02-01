@@ -73,6 +73,7 @@ To get started, download the .zip file from the release page
 2. Go to Settings -> Extensions of your browser
 3. You should be able to just drag and drop the .crx file into the browser and should run fine
 - Make sure you have "Developer Mode" turned on. They're generally on the top right corner.
+- Reload / refresh the page if needed.
 
 
 <!-- USAGE EXAMPLES -->
