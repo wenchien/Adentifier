@@ -29,9 +29,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p align="center">
-  <img src="https://github.com/wenchien/blender-material-to-vtf/blob/master/images/installation_2.PNG">
-</p>
 
 Have you ever want to do a simple Google search but all the top search results are all irrelevant ads from Google and find that annoying? As a matter of fact, there are instances where the links / urls provided in the ads section of the search result pages CAN be "DANGEROUS".
 
