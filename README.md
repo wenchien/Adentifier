@@ -34,7 +34,7 @@ Have you ever want to do a simple Google search but all the top search results a
 
 Ad-entifier is an ultra simple plugin that aims to highlight the ads section with obvious highlighting. This is done with the intention to let all users know the links they click on may be ads. 
 
-Of course another way to deal with this is to mode the entire element to the bottom of the page but that requires more work and may or may not solve the issue that google ads on search result page are just not CLEAR ENOUGH.
+Of course another way to deal with this is to move the entire element to the bottom of the page but that requires more work and may or may not solve the issue that google ads on search result page are just not CLEAR ENOUGH.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
