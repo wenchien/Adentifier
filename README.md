@@ -87,7 +87,7 @@ To get started, download the .zip file from the release page
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Version 1.0.0 code clean-ups maybe
+- I don't intend to update this regularly unless necessary since this is a simple plugin that just focus on QoL.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
